@@ -1,4 +1,4 @@
-<img src="dartpixel2.svg" alt="Dart Image" width="100%"/>
+<img src="dartpixel3.svg" alt="Dart Image" width="100%"/>
 
 #### About me 
 

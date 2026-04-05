@@ -1,4 +1,4 @@
-! [Dart Image]("dartpixel.svg")
+<img src="dartpixel.svg" alt="Dart Image" width="100%"/>
 
 #### About me 
 
